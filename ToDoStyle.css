@@ -1,0 +1,32 @@
+#container{
+	/*display: inline-block;*/
+	margin: auto;
+	padding: auto;
+	display: flex;
+}
+
+#leftPane{
+	width: 60vw;
+	height: auto;
+	min-height: 40vw;
+	background-color: peachpuff;
+	padding: auto;
+}
+#rightPane{
+	width: 40vw;
+	height: 50vh;
+	padding: auto;
+	background-color: #a6a5a3;
+}
+
+#ip{
+	width: 80%;
+	height: 80%;
+	margin: 20px;
+	font-size: 40px;
+}
+
+#btnDone{
+	margin-left: 20px;
+}
+
